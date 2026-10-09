@@ -14,5 +14,5 @@ version the stubs were generated from.
 ## Installation
 
 ```
-composer require --dev pinkcrab/wordpress-seo_stubs:27.4
+composer require --dev pinkcrab/wordpress-seo_stubs:27.9
 ```
