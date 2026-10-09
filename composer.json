@@ -13,7 +13,7 @@
     },
     "require": {
         "php": ">=7.4",
-        "php-stubs/wordpress-stubs": "^6.8"
+        "php-stubs/wordpress-stubs": "^6.8 || ^7.0"
     },
     "require-dev": {
         "php-stubs/generator": "^0.8"
